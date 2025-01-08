@@ -45,3 +45,10 @@ cd build # switching to the build directory
 cmake .. # generating the build files and using CMakeLists.txt in the parent directory
 make # compiling the project
 ```
+
+**NOTE:** Using Cmake you will be able to generate the build files and compile the project for multiple platforms (e.g. you will use same `CMakeLists.txt` for Linux, Windows).
+
+### Example files:
+* [main.cpp](./main.cpp)
+* [CMakeLists.txt](./CMakeLists.txt)
+* [generate.sh](./generate.sh): if you use Linux you can run this script to make a directory and generate the build files inside it.
