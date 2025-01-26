@@ -8,3 +8,4 @@
 ### [0x04-cmake](./0x04-cmake/): CMake - Targets
 ### [0x05-cmake](./0x05-cmake/): CMake - Target Dependencies - `PUBLIC`, `INTERFACE` AND `PRIVATE`
 ### [0x06-cmake](./0x06-cmake/): CMake - Organizing CMake Project
+### [0x07-cmake](./0x07-cmake/): Cmake - `message` Command, Variables
