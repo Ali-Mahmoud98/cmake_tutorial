@@ -11,3 +11,4 @@
 ### [0x07-cmake](./0x07-cmake/): Cmake - `message` Command, Variables
 ### [0x08-cmake](./0x08-cmake/): Cmake - `list` and `option` Commands
 ### [0x09-cmake](./0x09-cmake/): Cmake - `if` Command
+### [0x0A-cmake](./0x0A-cmake/): Cmake - loops
