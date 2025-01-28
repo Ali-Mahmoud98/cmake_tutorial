@@ -13,3 +13,4 @@
 ### [0x09-cmake](./0x09-cmake/): Cmake - `if` Command
 ### [0x0A-cmake](./0x0A-cmake/): Cmake - loops
 ### [0x0B-cmake](./0x0B-cmake/): Cmake - functions
+### [0x0C-cmake](./0x0C-cmake/): Cmake - macros
