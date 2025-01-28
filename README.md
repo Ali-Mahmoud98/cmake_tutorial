@@ -12,3 +12,4 @@
 ### [0x08-cmake](./0x08-cmake/): Cmake - `list` and `option` Commands
 ### [0x09-cmake](./0x09-cmake/): Cmake - `if` Command
 ### [0x0A-cmake](./0x0A-cmake/): Cmake - loops
+### [0x0B-cmake](./0x0B-cmake/): Cmake - functions
