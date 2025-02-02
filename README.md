@@ -14,3 +14,5 @@
 ### [0x0A-cmake](./0x0A-cmake/): Cmake - loops
 ### [0x0B-cmake](./0x0B-cmake/): Cmake - functions
 ### [0x0C-cmake](./0x0C-cmake/): Cmake - macros
+### [0x0D-clang_format](./0x0D-clang_format/): clang-format
+### [0x0E-cmake](./0x0E-cmake/): Cmake - Code Format `clang-format`
