@@ -1,0 +1,37 @@
+# Base style - we will start with LLVM and adjust for C++11
+BasedOnStyle: LLVM
+
+# Language: C++
+Language: Cpp
+
+# Set the C++ standard to C++11
+Standard: C++11
+
+# Indentation settings
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80  # Limit to 80 characters per line
+
+# Braces - K&R style (opening braces on the same line)
+BreakBeforeBraces: Attach
+
+# Function declarations and parameters
+SpaceBeforeParens: Never  # No space before parentheses in function declarations
+
+# Pointer and reference alignment (common in C++11)
+PointerAlignment: Left
+
+# Handling of lambdas and range-based for loops
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+
+# C++11 specific rules: Don't break lambda expressions onto multiple lines
+AllowShortFunctionsOnASingleLine: InlineOnly
+
+# Comment formatting - allows trailing comments on the same line
+CommentPragmas: '^.*$'
+
+# Additional settings to control spacing:
+# - Spaces will automatically be added after commas and operators in most styles.
+# No need for SpaceAfterComma key.  
