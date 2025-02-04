@@ -4,6 +4,11 @@
 ```bash
 cmake . -B build # create a directory called build then use this directory
 cmake --build build # build the project
-./build/test/unit_tests # run the unit tests
+
+# Start Testing
+./build/test/unit_tests # run the unit tests or you can use the next line to run tests instead of this line
+# cd build && ctest && cd .. # run unit tests
+# End Testing
+
 ./build/rooster # run the executable
 ```
