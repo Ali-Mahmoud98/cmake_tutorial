@@ -20,3 +20,4 @@
 ### [0x10-cmake](./0x10-cmake/): Cmake - Testing with Google Test
 ### [0x11-cmake](./0x11-cmake/): CMake - Testing with Catch2
 ### [0x12-cmake_test_main](./0x12-cmake_test_main/): Cmake - Testing the main Function (Google Test/Catch2)
+### [0x13-cmake_doxygen](./0x13-cmake_doxygen/): CMake - Generating the documentation with Doxygen: Doxyfile
