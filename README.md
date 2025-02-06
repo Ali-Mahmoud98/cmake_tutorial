@@ -21,3 +21,4 @@
 ### [0x11-cmake](./0x11-cmake/): CMake - Testing with Catch2
 ### [0x12-cmake_test_main](./0x12-cmake_test_main/): Cmake - Testing the main Function (Google Test/Catch2)
 ### [0x13-cmake_doxygen](./0x13-cmake_doxygen/): CMake - Generating the documentation with Doxygen: Doxyfile
+### [0x14-cmake_doxygen](./0x14-cmake_doxygen/): CMake - Generating the documentation with Doxygen: doxygen_add_doc
